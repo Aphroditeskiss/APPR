@@ -1,0 +1,10 @@
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\obj\Debug\worksheet dragging pictures 94465.csproj.AssemblyReference.cache
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\obj\Debug\worksheet_dragging_pictures_94465.Form1.resources
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\obj\Debug\worksheet_dragging_pictures_94465.Properties.Resources.resources
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\obj\Debug\worksheet dragging pictures 94465.csproj.GenerateResource.cache
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\obj\Debug\worksheet dragging pictures 94465.csproj.CoreCompileInputs.cache
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\bin\Debug\worksheet dragging pictures 94465.exe.config
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\bin\Debug\worksheet dragging pictures 94465.exe
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\bin\Debug\worksheet dragging pictures 94465.pdb
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\obj\Debug\worksheet dragging pictures 94465.exe
+C:\Users\otaku\source\repos\worksheet dragging pictures 94465\worksheet dragging pictures 94465\obj\Debug\worksheet dragging pictures 94465.pdb
