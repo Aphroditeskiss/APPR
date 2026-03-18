@@ -16,5 +16,10 @@ namespace APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
