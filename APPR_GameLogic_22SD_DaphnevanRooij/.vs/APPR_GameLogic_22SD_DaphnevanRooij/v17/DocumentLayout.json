@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laragon\\www\\APPR\\APPR_GameLogic_22SD_DaphnevanRooij\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB9D018-FDE5-49D8-8316-640C6445ED84}|APPR_GameLogic_22SD_DaphnevanRooij\\APPR_GameLogic_22SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_gamelogic_22sd_daphnevanrooij\\appr_gamelogic_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FB9D018-FDE5-49D8-8316-640C6445ED84}|APPR_GameLogic_22SD_DaphnevanRooij\\APPR_GameLogic_22SD_DaphnevanRooij.csproj|solutionrelative:appr_gamelogic_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_GameLogic_22SD_DaphnevanRooij\\APPR_GameLogic_22SD_DaphnevanRooij\\Form1.cs",
+              "RelativeDocumentMoniker": "APPR_GameLogic_22SD_DaphnevanRooij\\Form1.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_GameLogic_22SD_DaphnevanRooij\\APPR_GameLogic_22SD_DaphnevanRooij\\Form1.cs [Design]",
+              "RelativeToolTip": "APPR_GameLogic_22SD_DaphnevanRooij\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T11:40:20.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

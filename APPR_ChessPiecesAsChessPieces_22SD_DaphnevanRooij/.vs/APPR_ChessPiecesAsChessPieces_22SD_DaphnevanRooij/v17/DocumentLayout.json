@@ -3,20 +3,26 @@
   "WorkspaceRootPath": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,39 +41,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T07:53:45.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.Designer.cs",
-              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.Designer.cs",
-              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T07:53:44.226Z",
+              "Title": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-25T11:56:36.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.resx",
-              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.resx",
-              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.resx",
-              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-03-18T07:53:43.973Z",
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Piece.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Piece.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Piece.cs",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Piece.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:38:04.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Board.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Board.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Board.cs",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:36:41.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAIA5wJEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:53:45.645Z",
               "EditorCaption": ""
             },
             {
@@ -81,10 +98,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T09:23:41.911Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

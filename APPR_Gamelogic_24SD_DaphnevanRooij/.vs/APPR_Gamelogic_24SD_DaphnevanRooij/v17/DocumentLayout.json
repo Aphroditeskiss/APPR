@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laragon\\www\\APPR\\APPR_Gamelogic_24SD_DaphnevanRooij\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A95C855-7731-415B-AAB9-8AD009511CE1}|APPR_Gamelogic_24SD_DaphnevanRooij\\APPR_Gamelogic_24SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_gamelogic_24sd_daphnevanrooij\\appr_gamelogic_24sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A95C855-7731-415B-AAB9-8AD009511CE1}|APPR_Gamelogic_24SD_DaphnevanRooij\\APPR_Gamelogic_24SD_DaphnevanRooij.csproj|solutionrelative:appr_gamelogic_24sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A95C855-7731-415B-AAB9-8AD009511CE1}|APPR_Gamelogic_24SD_DaphnevanRooij\\APPR_Gamelogic_24SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_Gamelogic_24SD_DaphnevanRooij\\appr_gamelogic_24sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95C855-7731-415B-AAB9-8AD009511CE1}|APPR_Gamelogic_24SD_DaphnevanRooij\\APPR_Gamelogic_24SD_DaphnevanRooij.csproj|solutionrelative:appr_gamelogic_24sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_Gamelogic_24SD_DaphnevanRooij\\APPR_Gamelogic_24SD_DaphnevanRooij\\Form1.cs",
+              "RelativeDocumentMoniker": "APPR_Gamelogic_24SD_DaphnevanRooij\\Form1.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_Gamelogic_24SD_DaphnevanRooij\\APPR_Gamelogic_24SD_DaphnevanRooij\\Form1.cs",
+              "RelativeToolTip": "APPR_Gamelogic_24SD_DaphnevanRooij\\Form1.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAtwOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:08:53.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_Gamelogic_24SD_DaphnevanRooij\\APPR_Gamelogic_24SD_DaphnevanRooij\\Form1.cs",
+              "RelativeDocumentMoniker": "APPR_Gamelogic_24SD_DaphnevanRooij\\Form1.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_Gamelogic_24SD_DaphnevanRooij\\APPR_Gamelogic_24SD_DaphnevanRooij\\Form1.cs [Design]",
+              "RelativeToolTip": "APPR_Gamelogic_24SD_DaphnevanRooij\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:59:46.154Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.gbxPlayingField = new System.Windows.Forms.GroupBox();
             this.pcbNine = new System.Windows.Forms.PictureBox();
             this.pcbEight = new System.Windows.Forms.PictureBox();
             this.pcbSeven = new System.Windows.Forms.PictureBox();
@@ -38,9 +38,10 @@
             this.pcbThree = new System.Windows.Forms.PictureBox();
             this.pcbTwo = new System.Windows.Forms.PictureBox();
             this.pcbOne = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.groupBox1.SuspendLayout();
+            this.btnRook = new System.Windows.Forms.Button();
+            this.btnKnight = new System.Windows.Forms.Button();
+            this.btnQueen = new System.Windows.Forms.Button();
+            this.gbxPlayingField.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pcbNine)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbEight)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbSeven)).BeginInit();
@@ -52,23 +53,23 @@
             ((System.ComponentModel.ISupportInitialize)(this.pcbOne)).BeginInit();
             this.SuspendLayout();
             // 
-            // groupBox1
+            // gbxPlayingField
             // 
-            this.groupBox1.Controls.Add(this.pcbNine);
-            this.groupBox1.Controls.Add(this.pcbEight);
-            this.groupBox1.Controls.Add(this.pcbSeven);
-            this.groupBox1.Controls.Add(this.pcbSix);
-            this.groupBox1.Controls.Add(this.pcbFive);
-            this.groupBox1.Controls.Add(this.pcbFour);
-            this.groupBox1.Controls.Add(this.pcbThree);
-            this.groupBox1.Controls.Add(this.pcbTwo);
-            this.groupBox1.Controls.Add(this.pcbOne);
-            this.groupBox1.Location = new System.Drawing.Point(226, 12);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(452, 404);
-            this.groupBox1.TabIndex = 0;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Game";
+            this.gbxPlayingField.Controls.Add(this.pcbNine);
+            this.gbxPlayingField.Controls.Add(this.pcbEight);
+            this.gbxPlayingField.Controls.Add(this.pcbSeven);
+            this.gbxPlayingField.Controls.Add(this.pcbSix);
+            this.gbxPlayingField.Controls.Add(this.pcbFive);
+            this.gbxPlayingField.Controls.Add(this.pcbFour);
+            this.gbxPlayingField.Controls.Add(this.pcbThree);
+            this.gbxPlayingField.Controls.Add(this.pcbTwo);
+            this.gbxPlayingField.Controls.Add(this.pcbOne);
+            this.gbxPlayingField.Location = new System.Drawing.Point(40, 12);
+            this.gbxPlayingField.Name = "gbxPlayingField";
+            this.gbxPlayingField.Size = new System.Drawing.Size(452, 404);
+            this.gbxPlayingField.TabIndex = 0;
+            this.gbxPlayingField.TabStop = false;
+            this.gbxPlayingField.Text = "Game";
             // 
             // pcbNine
             // 
@@ -77,6 +78,10 @@
             this.pcbNine.Size = new System.Drawing.Size(100, 96);
             this.pcbNine.TabIndex = 8;
             this.pcbNine.TabStop = false;
+            this.pcbNine.Tag = "33";
+            this.pcbNine.DragDrop += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragDrop);
+            this.pcbNine.DragEnter += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragEnter);
+            this.pcbNine.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pcbAll_MouseDown);
             // 
             // pcbEight
             // 
@@ -85,6 +90,10 @@
             this.pcbEight.Size = new System.Drawing.Size(100, 96);
             this.pcbEight.TabIndex = 7;
             this.pcbEight.TabStop = false;
+            this.pcbEight.Tag = "23";
+            this.pcbEight.DragDrop += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragDrop);
+            this.pcbEight.DragEnter += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragEnter);
+            this.pcbEight.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pcbAll_MouseDown);
             // 
             // pcbSeven
             // 
@@ -93,6 +102,10 @@
             this.pcbSeven.Size = new System.Drawing.Size(100, 96);
             this.pcbSeven.TabIndex = 6;
             this.pcbSeven.TabStop = false;
+            this.pcbSeven.Tag = "13";
+            this.pcbSeven.DragDrop += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragDrop);
+            this.pcbSeven.DragEnter += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragEnter);
+            this.pcbSeven.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pcbAll_MouseDown);
             // 
             // pcbSix
             // 
@@ -101,6 +114,10 @@
             this.pcbSix.Size = new System.Drawing.Size(100, 96);
             this.pcbSix.TabIndex = 5;
             this.pcbSix.TabStop = false;
+            this.pcbSix.Tag = "32";
+            this.pcbSix.DragDrop += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragDrop);
+            this.pcbSix.DragEnter += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragEnter);
+            this.pcbSix.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pcbAll_MouseDown);
             // 
             // pcbFive
             // 
@@ -109,6 +126,10 @@
             this.pcbFive.Size = new System.Drawing.Size(100, 96);
             this.pcbFive.TabIndex = 4;
             this.pcbFive.TabStop = false;
+            this.pcbFive.Tag = "22";
+            this.pcbFive.DragDrop += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragDrop);
+            this.pcbFive.DragEnter += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragEnter);
+            this.pcbFive.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pcbAll_MouseDown);
             // 
             // pcbFour
             // 
@@ -117,6 +138,10 @@
             this.pcbFour.Size = new System.Drawing.Size(100, 96);
             this.pcbFour.TabIndex = 3;
             this.pcbFour.TabStop = false;
+            this.pcbFour.Tag = "12";
+            this.pcbFour.DragDrop += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragDrop);
+            this.pcbFour.DragEnter += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragEnter);
+            this.pcbFour.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pcbAll_MouseDown);
             // 
             // pcbThree
             // 
@@ -125,6 +150,10 @@
             this.pcbThree.Size = new System.Drawing.Size(100, 96);
             this.pcbThree.TabIndex = 2;
             this.pcbThree.TabStop = false;
+            this.pcbThree.Tag = "31";
+            this.pcbThree.DragDrop += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragDrop);
+            this.pcbThree.DragEnter += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragEnter);
+            this.pcbThree.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pcbAll_MouseDown);
             // 
             // pcbTwo
             // 
@@ -133,6 +162,10 @@
             this.pcbTwo.Size = new System.Drawing.Size(100, 96);
             this.pcbTwo.TabIndex = 1;
             this.pcbTwo.TabStop = false;
+            this.pcbTwo.Tag = "21";
+            this.pcbTwo.DragDrop += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragDrop);
+            this.pcbTwo.DragEnter += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragEnter);
+            this.pcbTwo.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pcbAll_MouseDown);
             // 
             // pcbOne
             // 
@@ -141,37 +174,54 @@
             this.pcbOne.Size = new System.Drawing.Size(100, 96);
             this.pcbOne.TabIndex = 0;
             this.pcbOne.TabStop = false;
+            this.pcbOne.Tag = "11";
             this.pcbOne.Click += new System.EventHandler(this.pictureBox1_Click);
+            this.pcbOne.DragDrop += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragDrop);
+            this.pcbOne.DragEnter += new System.Windows.Forms.DragEventHandler(this.pcbAll_DragEnter);
+            this.pcbOne.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pcbAll_MouseDown);
             // 
-            // button1
+            // btnRook
             // 
-            this.button1.Location = new System.Drawing.Point(45, 34);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(142, 54);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Rook";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnRook.Location = new System.Drawing.Point(705, 85);
+            this.btnRook.Name = "btnRook";
+            this.btnRook.Size = new System.Drawing.Size(142, 54);
+            this.btnRook.TabIndex = 1;
+            this.btnRook.Text = "Rook";
+            this.btnRook.UseVisualStyleBackColor = true;
+            this.btnRook.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button2
+            // btnKnight
             // 
-            this.button2.Location = new System.Drawing.Point(45, 107);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(142, 54);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Knight";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnKnight.Location = new System.Drawing.Point(705, 158);
+            this.btnKnight.Name = "btnKnight";
+            this.btnKnight.Size = new System.Drawing.Size(142, 54);
+            this.btnKnight.TabIndex = 2;
+            this.btnKnight.Text = "Knight";
+            this.btnKnight.UseVisualStyleBackColor = true;
+            this.btnKnight.Click += new System.EventHandler(this.btnKnight_Click);
+            // 
+            // btnQueen
+            // 
+            this.btnQueen.Location = new System.Drawing.Point(705, 232);
+            this.btnQueen.Name = "btnQueen";
+            this.btnQueen.Size = new System.Drawing.Size(142, 54);
+            this.btnQueen.TabIndex = 3;
+            this.btnQueen.Text = "Queen";
+            this.btnQueen.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(640, 360);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.groupBox1);
+            this.ClientSize = new System.Drawing.Size(920, 514);
+            this.Controls.Add(this.btnQueen);
+            this.Controls.Add(this.btnKnight);
+            this.Controls.Add(this.btnRook);
+            this.Controls.Add(this.gbxPlayingField);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.groupBox1.ResumeLayout(false);
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.gbxPlayingField.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pcbNine)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbEight)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbSeven)).EndInit();
@@ -187,7 +237,7 @@
 
         #endregion
 
-        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox gbxPlayingField;
         private System.Windows.Forms.PictureBox pcbNine;
         private System.Windows.Forms.PictureBox pcbEight;
         private System.Windows.Forms.PictureBox pcbSeven;
@@ -197,8 +247,9 @@
         private System.Windows.Forms.PictureBox pcbThree;
         private System.Windows.Forms.PictureBox pcbTwo;
         private System.Windows.Forms.PictureBox pcbOne;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnRook;
+        private System.Windows.Forms.Button btnKnight;
+        private System.Windows.Forms.Button btnQueen;
     }
 }
 

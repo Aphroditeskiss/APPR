@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C7270-83AC-4EC5-93E6-A9D93F4B0104}|APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\appr_whatpiecedidyoumove_24sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C5C7270-83AC-4EC5-93E6-A9D93F4B0104}|APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij.csproj|solutionrelative:appr_whatpiecedidyoumove_24sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C7270-83AC-4EC5-93E6-A9D93F4B0104}|APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_whatpiecedidyoumove_24sd_daphnevanrooij\\appr_whatpiecedidyoumove_24sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C7270-83AC-4EC5-93E6-A9D93F4B0104}|APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij.csproj|solutionrelative:appr_whatpiecedidyoumove_24sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C7270-83AC-4EC5-93E6-A9D93F4B0104}|APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\appr_whatpiecedidyoumove_24sd_daphnevanrooij\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C7270-83AC-4EC5-93E6-A9D93F4B0104}|APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij.csproj|solutionrelative:appr_whatpiecedidyoumove_24sd_daphnevanrooij\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C7270-83AC-4EC5-93E6-A9D93F4B0104}|APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\appr_whatpiecedidyoumove_24sd_daphnevanrooij\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C7270-83AC-4EC5-93E6-A9D93F4B0104}|APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij.csproj|solutionrelative:appr_whatpiecedidyoumove_24sd_daphnevanrooij\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Piece.cs",
+              "RelativeDocumentMoniker": "APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Piece.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Piece.cs",
+              "RelativeToolTip": "APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Piece.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:46:14.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Board.cs",
+              "RelativeDocumentMoniker": "APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Board.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Board.cs",
+              "RelativeToolTip": "APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:44:34.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Form1.cs",
+              "RelativeDocumentMoniker": "APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Form1.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Form1.cs",
+              "RelativeToolTip": "APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:24:30.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Form1.cs",
+              "RelativeDocumentMoniker": "APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Form1.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Form1.cs [Design]",
+              "RelativeToolTip": "APPR_WhatPieceDidYouMove_24SD_DaphnevanRooij\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:22:04.928Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
