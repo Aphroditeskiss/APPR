@@ -1,86 +1,70 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij
 {
     internal class Piece
     {
-        private string name = "";
-        private string moveOptions = "";
-        private int curHor, curVer, newHor, newVer;
+        public string Name { get; private set; }
+        public string Color { get; private set; }
+        public int Horizontal { get; private set; }
+        public int Vertical { get; private set; }
 
-        public Piece(string c_name)
+        private string moveOptions;
+
+        public Piece(string name, string color)
         {
-            name = c_name;
+            Name = name;
+            Color = color;
         }
 
-        public void SetLocation(int _newHor, int _newVer)
+        public void SetLocation(int h, int v)
         {
-            curHor = _newHor;
-            curVer = _newVer;
+            Horizontal = h;
+            Vertical = v;
         }
 
-        public string GetMoveoptions(int _newHor, int _newVer)
+        public string GetMoveoptions(int targetHor, int targetVer)
         {
-            newHor = _newHor;
-            newVer = _newVer;
+            if (targetHor == Horizontal && targetVer == Vertical)
+                return ""; // can't move to same square
+
             moveOptions = "";
+            int diffHor = Math.Abs(targetHor - Horizontal);
+            int diffVer = Math.Abs(targetVer - Vertical);
 
-            switch (name)
+            switch (Name) //different rules for each piece
             {
-                case "Rook": MoveRook(); break;
-                case "Knight": MoveKnight(); break;
-                default:
+                case "Rook":
+                    if ((diffHor == 0 && diffVer != 0) || (diffVer == 0 && diffHor != 0))
+                        moveOptions = $"{targetHor}{targetVer}";
+                    break;
+
+                case "Knight":
+                    if ((diffHor == 2 && diffVer == 1) || (diffHor == 1 && diffVer == 2))
+                        moveOptions = $"{targetHor}{targetVer}";
+                    break;
+
+                case "Queen":
+                    bool isStraight = (diffHor == 0 && diffVer != 0) || (diffVer == 0 && diffHor != 0);
+                    bool isDiagonal = (diffHor == diffVer && diffHor != 0);
+                    if (isStraight || isDiagonal)
+                        moveOptions = $"{targetHor}{targetVer}";
+                    break;
+                case "King":
+                    bool kingStraight = (diffHor == 0 && diffVer == 1) ||
+                        (diffVer == 0 && diffHor == 1);
+
+                    bool kingDiagonal = (diffHor == 1 && diffVer == 1);
+                    if (kingStraight || kingDiagonal)
+                        moveOptions = $"{targetHor}{targetVer}";
+                    break;
+                case "Wizard":
+                    if (!(diffHor == 0 && diffVer == 0))
+                        moveOptions = $"{targetHor}{targetVer}";
                     break;
             }
-
             return moveOptions;
         }
 
-        public void MoveRook()
-        {
-            int temp_hor = Math.Abs(newHor - curHor);
-            int temp_ver = Math.Abs(newVer - curVer);
-
-            if (temp_ver == 2 || temp_ver == 1)
-            {
-                if (temp_hor == 0)
-                {
-                    moveOptions = $"{newHor}{newVer}";
-
-                }
-            }
-            else if (temp_hor == 2 || temp_hor == 1)
-            {
-                if (temp_ver == 0)
-                {
-                    moveOptions = $"{newHor}{newVer}";
-                }
-            }
-        }
-
-        public void MoveKnight()
-        {
-            int temp_hor = Math.Abs(newHor - curHor);
-            int temp_ver = Math.Abs(newVer - curVer);
-
-            if (temp_ver == 2)
-            {
-                if (temp_hor == 1)
-                {
-                    moveOptions = $"{newHor}{newVer}";
-                }
-            }
-            else if (temp_hor == 2)
-            {
-                if (temp_ver == 1)
-                {
-                    moveOptions = $"{newHor}{newVer}";
-                }
-            }
-        }
     }
 }

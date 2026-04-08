@@ -3,26 +3,40 @@
   "WorkspaceRootPath": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\arduinoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\arduinoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\arduinoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\arduinoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\arduinoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\arduinoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|solutionrelative:appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2305CC0C-170E-4734-AA72-3D8D76D32994}|APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj|c:\\laragon\\www\\appr\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\appr_chesspiecesaschesspieces_22sd_daphnevanrooij\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,8 +46,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gameform.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.cs",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.cs",
+              "ViewState": "AgIAAEYDAAAAAAAAAAAowGYDAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T12:17:12.777Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -41,63 +69,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij",
-              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj",
-              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj",
-              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj",
-              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-25T11:56:36.408Z",
-              "EditorCaption": ""
+              "Title": "Gameform.cs [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.cs [Design]*",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:30:12.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Location.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Location.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Location.cs",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:26:02.361Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Piece.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Piece.cs",
-              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Piece.cs",
-              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Piece.cs",
-              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Piece.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAswCsAAAAJAAAAAAAAAA==",
+              "Title": "Arduinoform.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.cs",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T08:38:04.679Z"
+              "WhenOpened": "2026-04-07T09:43:39.646Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Gameform.Designer.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.Designer.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.Designer.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.Designer.cs",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Gameform.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAvwFoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T12:03:06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Arduinoform.Designer.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.Designer.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.Designer.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.Designer.cs",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.Designer.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAUwOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:23:26.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Arduinoform.cs [Design]",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.cs [Design]",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Arduinoform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:43:46.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Program.cs",
+              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Program.cs",
+              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Program.cs",
+              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:24:18.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Board.cs",
               "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Board.cs",
               "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Board.cs",
               "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Board.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T08:36:41.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAIA5wJEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T07:53:45.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "RelativeDocumentMoniker": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs",
-              "ToolTip": "C:\\laragon\\www\\APPR\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs [Design]",
-              "RelativeToolTip": "APPR_ChessPiecesAsChessPieces_22SD_DaphnevanRooij\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:23:41.911Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
